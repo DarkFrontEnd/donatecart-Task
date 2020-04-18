@@ -1,0 +1,18 @@
+.flex-container {
+   display: flex;
+   justify-content: center;
+   background-color: DodgerBlue;
+   text-align: center;
+ }
+ 
+ .flex-container > div {
+   background-color: cornflowerblue;
+   width: 100px;
+   margin: 10px;
+   text-align: center;
+   
+ }
+
+ .custom-select{
+   margin-bottom: 15px !important;
+ }

@@ -1,0 +1,22 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Fish",
+            "price": 350,
+            "imagesrc": "/Fish.jpg"       
+         },
+        {
+            "id": 2,
+            "name": "Egg",
+            "price": 150,
+            "imagesrc": "/Egg.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Orange",
+            "price": 100,
+            "imagesrc": "/Orange.jpg"
+        }
+    ]
+}
